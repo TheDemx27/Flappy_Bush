@@ -3,7 +3,8 @@
 
 var game = new Phaser.Game(400, 490, Phaser.AUTO, 'game_div');
 
-var menu_state = {
+/*FYI I'm not going to finish this ever*/
+/*var menu_state = {
 	preload: function () {
 		
 	},
@@ -15,7 +16,7 @@ var menu_state = {
 	update: function () {
 		
 	}
-}
+}*/ 
 
 var main_state = {
 
