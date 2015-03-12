@@ -2,22 +2,6 @@
 "use strict";
 
 var game = new Phaser.Game(400, 490, Phaser.AUTO, 'game_div');
-
-/*FYI I'm not going to finish this ever*/
-/*var menu_state = {
-	preload: function () {
-		
-	},
-	
-	create: function () {
-		
-	},
-	
-	update: function () {
-		
-	}
-}*/ 
-
 var main_state = {
 
 	preload: function () {
